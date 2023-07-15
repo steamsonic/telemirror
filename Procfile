@@ -1,2 +1,2 @@
-web : python main.py --port=$PORT --no-browser
+web : python main.py --port=$PORT 
 
