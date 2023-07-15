@@ -1,2 +1,2 @@
-web : voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser
+web : python main.py --port=$PORT --no-browser
 
