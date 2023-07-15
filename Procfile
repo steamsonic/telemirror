@@ -1,2 +1,2 @@
-web : python main.py --port=$PORT 
+worker: python main.py
 
