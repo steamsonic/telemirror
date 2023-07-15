@@ -1,2 +1,2 @@
-web: python main.py
-worker: python main.py
+web : voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser
+
